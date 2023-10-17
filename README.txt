@@ -1,17 +1,19 @@
 Key Molecular Descriptors Distinguishing Between Synthetic and Natural Products
 
-Nathaniel Thomas [1, 9, 10], Sweekrit Bhatnagar [2, 10], Anya Iyer [3, 10], Avirral Agarwal [4, 10], Niranjana Sankar [5, 10], Manav Bhargava [6, 10], Spencer Ye [1, 9, 10], Edwin Li [7, 10], Ritam Nandi [8, 10], Edward Njoo [9], Robert Downing [10] 
+Nathaniel Thomas [1, 9, 10]*, Sweekrit Bhatnagar [2, 10]*, Avirral Agarwal [3, 10], Anya Iyer [4, 10], Niranjana Sankar [5, 10], Manav Bhargava [6, 10], Spencer Ye [1, 9, 10], Edwin Li [7, 10], Ritam Nandi [8, 10], Edward Njoo [9], Robert Downing [10]
 
-[1] Homestead High School 
-[2] Mountain House High School 
-[3] Dougherty Valley High School 
-[4] Carlmont High School 
-[5] Monta Vista High School 
-[6] Los Altos High School 
-[7] Foothill High School 
-[8] Mission San Jose High School 
-[9] Department of Chemistry, Biochemistry, & Physics, Aspiring Scholars Directed Research Program, Fremont, CA 
+[1] Homestead High School
+[2] Mountain House High School
+[3] Carlmont High School
+[4] Dougherty Valley High School
+[5] Monta Vista High School
+[6] Los Altos High School
+[7] Foothill High School
+[8] Mission San Jose High School
+[9] Department of Chemistry, Biochemistry, & Physics, Aspiring Scholars Directed Research Program, Fremont, CA
 [10] Department of Computer Science & Engineering, Aspiring Scholars Directed Research Program, Fremont, CA
+
+*Equal first authors.
 
 The following files contain all of the data optimization code that is necessary to create the final combed dataset for natural and synthetic products that we use as our sample throughout the study. All of these files were placed in a subfolder called all_py/:
 
